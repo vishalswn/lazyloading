@@ -13,5 +13,6 @@ export class AppComponent {
   ngOnInit(): void {
   	console.log('user not  loading');
   	console.log('login not  loading');
+  	console.log('change password not  loading');
   }
 }
